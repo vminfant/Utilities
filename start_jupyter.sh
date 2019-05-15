@@ -1,1 +1,1 @@
-screen -m -d jupyter notebook
+screen -m -d -S "Jupyter-screen" jupyter notebook
