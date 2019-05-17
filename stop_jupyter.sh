@@ -1,1 +1,1 @@
-screen -m -d -S "Jupyter-screen" jupyter notebook
+screen -S "Jupyter-screen" -X kill 
