@@ -1,5 +1,4 @@
-# Utilities
-Utility Scripts
+# Utility Scripts
 
 Utility Script | Purpose | Additional Notes
 ------------- | ------------- | -------------
