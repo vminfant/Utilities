@@ -1,2 +1,2 @@
-__pycache__/generate_password.cpython-39.pyc
-generate_password.pyc
+__pycache__/*.pyc
+*.pyc
